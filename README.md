@@ -4,6 +4,11 @@ This is where I keep my notes, practice and progress from the Google Cybersecuri
 
 I will add what I learn, what I practise and anything I need to revise.
 
+## My study notes
+
+- [Module 1 notes](notes/course-01/module-01-notes.md)
+- [Module 2 notes — through CISSP domains Part 2](notes/course-01/module-02-notes.md)
+
 ## Progress
 
 I am working through Course 1: Foundations of Cybersecurity.
